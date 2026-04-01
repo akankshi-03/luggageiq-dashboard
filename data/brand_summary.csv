@@ -1,0 +1,7 @@
+brand,total_products,total_reviews,avg_sell_price,avg_list_price,avg_discount_pct,avg_rating,sentiment_score,positive_reviews,negative_reviews,neutral_reviews,market_position,top_pros,top_cons,avg_wheels_score,avg_handle_score,avg_zipper_score,avg_material_score,avg_size_score,avg_durability_score
+Safari,15,1426,3830.0,5259.0,26.1,4.09,53.4,762,324,340,mid-premium,"build quality, wheels, spacious","zipper quality, weight, limited colors",4.24,3.24,3.25,3.26,3.25,3.25
+Skybags,12,1074,2527.0,3996.0,36.9,3.71,43.8,470,349,255,value,"stylish design, lightweight, affordable","durability, handle issues, zipper breaks",3.23,3.27,3.23,3.26,3.24,2.34
+American Tourister,11,920,6215.0,7790.0,19.8,4.22,56.6,521,198,201,premium,"premium feel, sturdy build, smooth wheels","expensive, heavy, limited budget options",3.25,3.22,3.27,3.25,3.28,3.23
+VIP,15,1285,2138.0,3284.0,34.9,3.58,40.9,525,426,334,budget,"affordable, lightweight, wide availability","quality issues, handle breaks, zipper problems",3.23,3.27,3.25,3.25,3.24,3.26
+Aristocrat,15,1139,1513.0,2590.0,40.7,3.57,42.2,481,393,265,budget,"very affordable, lightweight, basic functionality","poor durability, cheap plastic, zipper fails fast",3.26,3.27,3.24,3.24,3.26,3.26
+Nasher Miles,11,866,4200.0,5208.0,18.8,4.23,60.6,525,158,183,mid-premium,"modern design, TSA lock, smooth spinner wheels","price, weight, availability of service centers",3.26,3.24,3.23,3.27,3.25,3.28

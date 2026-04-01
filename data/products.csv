@@ -1,0 +1,80 @@
+product_id,brand,product_name,type,material,color,list_price,sell_price,discount_pct,rating,review_count,market_position
+PROD0001,Safari,Safari Cabin Polycarbonate Blue Luggage,Cabin,Polycarbonate,Blue,4506,3514,22,4.3,621,mid-premium
+PROD0002,Safari,Safari Cabin Softside Navy Blue Luggage,Cabin,Softside,Navy Blue,7337,5282,28,4.0,180,mid-premium
+PROD0003,Safari,Safari Cabin Polycarbonate Grey Luggage,Cabin,Polycarbonate,Grey,4405,3039,31,4.4,2515,mid-premium
+PROD0004,Safari,Safari Cabin Softside Grey Luggage,Cabin,Softside,Grey,7823,5319,32,4.7,1768,mid-premium
+PROD0005,Safari,Safari Medium Hardside Blue Luggage,Medium,Hardside,Blue,2553,2042,20,4.0,2909,mid-premium
+PROD0006,Safari,Safari Set of 2 Fabric Blue Luggage,Set of 2,Fabric,Blue,3773,2980,21,4.0,1428,mid-premium
+PROD0007,Safari,Safari Cabin Polycarbonate Purple Luggage,Cabin,Polycarbonate,Purple,3292,2436,26,4.7,1458,mid-premium
+PROD0008,Safari,Safari Set of 3 Fabric Black Luggage,Set of 3,Fabric,Black,6263,4258,32,4.4,561,mid-premium
+PROD0009,Safari,Safari Set of 2 Polycarbonate Blue Luggage,Set of 2,Polycarbonate,Blue,7649,5048,34,3.9,1531,mid-premium
+PROD0010,Safari,Safari Set of 3 ABS Navy Blue Luggage,Set of 3,ABS,Navy Blue,2875,2242,22,4.3,1235,mid-premium
+PROD0011,Safari,Safari Cabin ABS Navy Blue Luggage,Cabin,ABS,Navy Blue,5613,4322,23,3.9,1907,mid-premium
+PROD0012,Safari,Safari Large ABS Green Luggage,Large,ABS,Green,5410,4273,21,3.9,2795,mid-premium
+PROD0013,Safari,Safari Large Polycarbonate Red Luggage,Large,Polycarbonate,Red,6875,5362,22,4.2,719,mid-premium
+PROD0014,Safari,Safari Set of 2 Hardside Blue Luggage,Set of 2,Hardside,Blue,7742,5264,32,3.3,949,mid-premium
+PROD0015,Safari,Safari Large Polycarbonate Grey Luggage,Large,Polycarbonate,Grey,2762,2071,25,3.4,1693,mid-premium
+PROD0016,Skybags,Skybags Cabin ABS Green Luggage,Cabin,ABS,Green,3541,2124,40,3.7,2094,value
+PROD0017,Skybags,Skybags Set of 2 Hardside Red Luggage,Set of 2,Hardside,Red,3969,3016,24,3.5,1060,value
+PROD0018,Skybags,Skybags Set of 3 Softside Blue Luggage,Set of 3,Softside,Blue,5309,3291,38,4.0,1685,value
+PROD0019,Skybags,Skybags Large ABS Red Luggage,Large,ABS,Red,5974,3883,35,3.5,422,value
+PROD0020,Skybags,Skybags Cabin Polycarbonate Red Luggage,Cabin,Polycarbonate,Red,3110,1710,45,3.3,2837,value
+PROD0021,Skybags,Skybags Set of 2 Softside Navy Blue Luggage,Set of 2,Softside,Navy Blue,4952,3367,32,4.5,2490,value
+PROD0022,Skybags,Skybags Set of 2 Softside Blue Luggage,Set of 2,Softside,Blue,1894,1117,41,3.8,519,value
+PROD0023,Skybags,Skybags Set of 3 Fabric Green Luggage,Set of 3,Fabric,Green,2713,1926,29,3.9,1830,value
+PROD0024,Skybags,Skybags Medium Hardside Black Luggage,Medium,Hardside,Black,3957,2532,36,3.3,781,value
+PROD0025,Skybags,Skybags Set of 3 Polycarbonate Blue Luggage,Set of 3,Polycarbonate,Blue,5958,3634,39,3.7,864,value
+PROD0026,Skybags,Skybags Medium Fabric Red Luggage,Medium,Fabric,Red,1804,1100,39,3.9,1377,value
+PROD0027,Skybags,Skybags Set of 2 Polycarbonate Navy Blue Luggage,Set of 2,Polycarbonate,Navy Blue,4773,2625,45,3.4,1309,value
+PROD0028,American Tourister,American Tourister Cabin ABS Navy Blue Luggage,Cabin,ABS,Navy Blue,4903,3677,25,4.5,333,premium
+PROD0029,American Tourister,American Tourister Set of 3 ABS Red Luggage,Set of 3,ABS,Red,11287,8239,27,4.1,726,premium
+PROD0030,American Tourister,American Tourister Large Softside Purple Luggage,Large,Softside,Purple,6970,5088,27,4.2,2875,premium
+PROD0031,American Tourister,American Tourister Medium Fabric Purple Luggage,Medium,Fabric,Purple,9618,7309,24,4.1,2169,premium
+PROD0032,American Tourister,American Tourister Set of 2 Polycarbonate Grey Luggage,Set of 2,Polycarbonate,Grey,7181,6319,12,5.0,1434,premium
+PROD0033,American Tourister,American Tourister Cabin Softside Grey Luggage,Cabin,Softside,Grey,7108,6397,10,4.3,340,premium
+PROD0034,American Tourister,American Tourister Cabin ABS Navy Blue Luggage,Cabin,ABS,Navy Blue,4014,3211,20,3.9,340,premium
+PROD0035,American Tourister,American Tourister Set of 3 ABS Blue Luggage,Set of 3,ABS,Blue,11453,9620,16,4.6,2258,premium
+PROD0036,American Tourister,American Tourister Medium Softside Maroon Luggage,Medium,Softside,Maroon,7481,5610,25,3.8,1717,premium
+PROD0037,American Tourister,American Tourister Medium Polycarbonate Navy Blue Luggage,Medium,Polycarbonate,Navy Blue,10562,8343,21,4.4,1784,premium
+PROD0038,American Tourister,American Tourister Set of 2 Hardside Black Luggage,Set of 2,Hardside,Black,5112,4549,11,3.5,1699,premium
+PROD0039,VIP,VIP Large Polycarbonate Grey Luggage,Large,Polycarbonate,Grey,2284,1575,31,3.2,2246,budget
+PROD0040,VIP,VIP Set of 2 ABS Purple Luggage,Set of 2,ABS,Purple,2251,1508,33,3.8,1944,budget
+PROD0041,VIP,VIP Medium Polycarbonate Maroon Luggage,Medium,Polycarbonate,Maroon,4809,2789,42,4.0,451,budget
+PROD0042,VIP,VIP Cabin Softside Black Luggage,Cabin,Softside,Black,1882,959,49,3.8,1018,budget
+PROD0043,VIP,VIP Medium Hardside Maroon Luggage,Medium,Hardside,Maroon,3471,2394,31,3.7,1692,budget
+PROD0044,VIP,VIP Cabin ABS Purple Luggage,Cabin,ABS,Purple,1508,950,37,3.6,1136,budget
+PROD0045,VIP,VIP Set of 2 Fabric Purple Luggage,Set of 2,Fabric,Purple,4353,2263,48,3.1,2326,budget
+PROD0046,VIP,VIP Set of 2 ABS Grey Luggage,Set of 2,ABS,Grey,2715,1873,31,3.4,289,budget
+PROD0047,VIP,VIP Set of 3 Softside Black Luggage,Set of 3,Softside,Black,4563,2965,35,3.5,284,budget
+PROD0048,VIP,VIP Cabin Softside Maroon Luggage,Cabin,Softside,Maroon,3559,2099,41,4.1,694,budget
+PROD0049,VIP,VIP Cabin Softside Navy Blue Luggage,Cabin,Softside,Navy Blue,4987,3490,30,3.8,330,budget
+PROD0050,VIP,VIP Set of 3 Polycarbonate Grey Luggage,Set of 3,Polycarbonate,Grey,3153,2270,28,3.0,2383,budget
+PROD0051,VIP,VIP Medium Softside Black Luggage,Medium,Softside,Black,4036,2946,27,3.8,1767,budget
+PROD0052,VIP,VIP Set of 3 Softside Green Luggage,Set of 3,Softside,Green,2568,1771,31,3.5,2793,budget
+PROD0053,VIP,VIP Large ABS Blue Luggage,Large,ABS,Blue,3121,2215,29,3.4,2801,budget
+PROD0054,Aristocrat,Aristocrat Large Hardside Green Luggage,Large,Hardside,Green,1497,1047,30,3.7,1927,budget
+PROD0055,Aristocrat,Aristocrat Set of 3 Softside Navy Blue Luggage,Set of 3,Softside,Navy Blue,1500,795,47,3.9,923,budget
+PROD0056,Aristocrat,Aristocrat Set of 3 Fabric Red Luggage,Set of 3,Fabric,Red,2629,1787,32,3.9,1050,budget
+PROD0057,Aristocrat,Aristocrat Large Fabric Red Luggage,Large,Fabric,Red,2994,1586,47,3.2,2931,budget
+PROD0058,Aristocrat,Aristocrat Large Softside Black Luggage,Large,Softside,Black,3935,2085,47,3.4,1276,budget
+PROD0059,Aristocrat,Aristocrat Cabin ABS Blue Luggage,Cabin,ABS,Blue,1672,1120,33,3.6,2316,budget
+PROD0060,Aristocrat,Aristocrat Medium Fabric Blue Luggage,Medium,Fabric,Blue,3677,2353,36,3.9,2989,budget
+PROD0061,Aristocrat,Aristocrat Large ABS Blue Luggage,Large,ABS,Blue,3270,1798,45,3.3,1078,budget
+PROD0062,Aristocrat,Aristocrat Cabin Polycarbonate Purple Luggage,Cabin,Polycarbonate,Purple,2333,1609,31,3.4,64,budget
+PROD0063,Aristocrat,Aristocrat Large ABS Blue Luggage,Large,ABS,Blue,1861,874,53,3.1,1859,budget
+PROD0064,Aristocrat,Aristocrat Set of 3 Hardside Black Luggage,Set of 3,Hardside,Black,1658,1127,32,3.0,2880,budget
+PROD0065,Aristocrat,Aristocrat Medium Softside Black Luggage,Medium,Softside,Black,2712,1410,48,3.8,2313,budget
+PROD0066,Aristocrat,Aristocrat Medium Hardside Red Luggage,Medium,Hardside,Red,1371,836,39,4.0,1543,budget
+PROD0067,Aristocrat,Aristocrat Cabin Fabric Grey Luggage,Cabin,Fabric,Grey,3993,2515,37,3.5,2781,budget
+PROD0068,Aristocrat,Aristocrat Cabin Fabric Purple Luggage,Cabin,Fabric,Purple,3742,1758,53,3.9,683,budget
+PROD0069,Nasher Miles,Nasher Miles Medium ABS Purple Luggage,Medium,ABS,Purple,3203,2658,17,4.3,1410,mid-premium
+PROD0070,Nasher Miles,Nasher Miles Set of 2 ABS Blue Luggage,Set of 2,ABS,Blue,4304,3658,15,3.9,1616,mid-premium
+PROD0071,Nasher Miles,Nasher Miles Cabin Hardside Grey Luggage,Cabin,Hardside,Grey,4634,3429,26,4.3,1482,mid-premium
+PROD0072,Nasher Miles,Nasher Miles Large ABS Grey Luggage,Large,ABS,Grey,3193,2618,18,4.8,1682,mid-premium
+PROD0073,Nasher Miles,Nasher Miles Large Fabric Navy Blue Luggage,Large,Fabric,Navy Blue,9335,7468,20,4.2,1488,mid-premium
+PROD0074,Nasher Miles,Nasher Miles Set of 3 Hardside Green Luggage,Set of 3,Hardside,Green,3226,2742,15,4.8,1119,mid-premium
+PROD0075,Nasher Miles,Nasher Miles Medium Softside Blue Luggage,Medium,Softside,Blue,3313,2816,15,3.2,2493,mid-premium
+PROD0076,Nasher Miles,Nasher Miles Set of 2 Fabric Green Luggage,Set of 2,Fabric,Green,6574,4733,28,4.5,523,mid-premium
+PROD0077,Nasher Miles,Nasher Miles Set of 2 Softside Grey Luggage,Set of 2,Softside,Grey,5086,4424,13,4.2,2953,mid-premium
+PROD0078,Nasher Miles,Nasher Miles Set of 2 Polycarbonate Grey Luggage,Set of 2,Polycarbonate,Grey,5983,4487,25,4.1,336,mid-premium
+PROD0079,Nasher Miles,Nasher Miles Large Softside Green Luggage,Large,Softside,Green,8434,7168,15,4.2,2998,mid-premium
