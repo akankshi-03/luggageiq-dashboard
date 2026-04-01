@@ -1,5 +1,6 @@
 # 🧳 LuggageIQ — Amazon India Competitive Intelligence Dashboard
-
+## 🚀 Live Dashboard
+👉 [Click here to view the dashboard](https://luggageiq-dashboard-drapavd6dzopnhgbkayqig.streamlit.app/)
 A competitive intelligence dashboard for luggage brands on Amazon India, built for the Moonshot AI Agent Internship Assignment.
 
 ## 📊 Dashboard Features
